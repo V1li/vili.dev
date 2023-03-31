@@ -1,2 +1,2 @@
 # vili.dev
-Thanks [new css](https://newcss.net/).
+Thanks [new.css](https://newcss.net/).
